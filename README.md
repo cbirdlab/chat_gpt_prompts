@@ -2,8 +2,8 @@
 
 ---
 
-## add markdown hyperlinks to wikipedia
+## add markdown hyperlinks to wikipedia to a paragraph
 
 ```
-X=______.  Can you write a paragraph about X, add hyperlinks to wikipedia for the keywords, and output as markdown in a code block
+Can you add markdown hyperlinks to wikipedia for the keywords in a paragraph, and output it as markdown in a code block
 ```
